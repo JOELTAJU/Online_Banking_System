@@ -27,16 +27,18 @@ This Java Online Banking System is a simple console-based application that simul
 ### Setup
 
 1. Clone the repository:
-
+```
    https://github.com/JOELTAJU/LEARNFLOW-Online_Banking_System.git
-   
+   ```
 2. Open the project in your preferred IDE or text editor.
 
 ### How to Run
 
+```
+
 1. Navigate to the project folder:
 
-   ```bash
+```bash
    cd java-online-banking
    ```
 
